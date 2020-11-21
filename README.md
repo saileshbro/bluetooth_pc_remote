@@ -2,7 +2,7 @@
 
 An flutter application to control PC from Flutter Application using BlueTooth
 
-To build
+## To build
 
 ```bash
 java -jar bluetooth_server.jar

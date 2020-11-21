@@ -8,6 +8,7 @@ class Application extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       themeMode: ThemeMode.dark,
+      debugShowCheckedModeBanner: false,
       theme: ThemeData.dark().copyWith(
         primaryIconTheme: IconThemeData(
           color: Colors.white,
